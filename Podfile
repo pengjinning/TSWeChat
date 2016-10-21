@@ -19,14 +19,13 @@ def pods
     pod 'RxCocoa', '~> 2.3.1'
     pod 'RxBlocking', '~> 2.3.1'
     pod 'XCGLogger'
-    pod 'Swift_cURLCommand'
     pod 'SnapKit'
     pod 'BSImagePicker', '~> 2.2'
-    pod 'TSVoiceConverter'
+    pod 'TSVoiceConverter', '0.1.2'
 
     #Objective-C
     pod 'YYText'
-    pod 'SVProgressHUD', '~> 2.0-beta8'
+    pod 'SVProgressHUD'
     pod 'INTULocationManager'
 end
 
